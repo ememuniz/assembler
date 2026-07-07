@@ -54,3 +54,5 @@ Seguindo as boas práticas, o código foi modularizado da seguinte forma:
 
 ## 📺 Link do Video
 
+https://drive.google.com/file/d/1cqPgerwY0yqckNo6UhAs0DSHOqLgbUvQ/view?usp=sharing 
+
